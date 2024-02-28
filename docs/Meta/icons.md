@@ -26,3 +26,8 @@ Icons are sourced from the [Material for MkDocs Icon List](https://squidfunk.git
 - :simple-nextcloud: - Nextcloud - `:simple-nextcloud:`
 - :simple-gitea: - Gitea - `:simple-gitea:`
 - :simple-docker: - Docker - `:simple-docker:`
+
+## Other commonly used icons
+- :material-check-circle-outline: - Check/Yes - `:material-check-circle-outline:`
+- :material-close-circle-outline: - X/No - `:material-close-circle-outline:`
+- :octicons-clock-24: - Clock/In Progress - `:octicons-clock-24:`
