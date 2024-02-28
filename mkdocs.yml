@@ -1,0 +1,36 @@
+site_name: Black Cat Labs Wiki
+theme:
+  name: material
+  logo: localassets/BLACKCAT-LOGO-BLACK-TRANSPARENT.svg
+  favicon: localassets/favicon-32x32.png
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: lime
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: lime
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  
+  features:
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - navigation.indexes
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: CC &copy; 2024 Black Cat Labs. This work is openly licensed via CC BY-SA 4.0.
