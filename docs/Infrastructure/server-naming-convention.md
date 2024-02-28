@@ -31,8 +31,8 @@ It's not quite as fun, but makes wrangling things a little easier than names wit
 ### If physical or on a hosted VPS
 #### U.S. Lakes
 ??? abstract "U.S. Lakes list"
-	- Action
-	- Alturas
+	- ~~Action~~
+	- [Alturas :octicons-container-24:](<Server Inventory/alturas.md>)
 	- Baron
 	- Bantam
 	- Beaver
