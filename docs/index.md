@@ -1,6 +1,6 @@
-# :material-hand-wave: Welcome to Black Cat Labs
+# Welcome to Black Cat Labs
 
-Hi there, welcome to the documentation wiki for Black Cat Labs.
+:material-hand-wave: Hi there, welcome to the documentation wiki for Black Cat Labs.
 
 This wiki is very much a living document, and is updated regularly.
 
