@@ -33,4 +33,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: false
+      enabled: true
+      type: timeago
+      fallback_to_build_date: true
 copyright: CC &copy; 2024 Black Cat Labs. This work is openly licensed via CC BY-SA 4.0.
