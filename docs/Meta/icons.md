@@ -26,6 +26,7 @@ Icons are sourced from the [Material for MkDocs Icon List](https://squidfunk.git
 - :simple-nextcloud: - Nextcloud - `:simple-nextcloud:`
 - :simple-gitea: - Gitea - `:simple-gitea:`
 - :simple-docker: - Docker - `:simple-docker:`
+- :simple-1password: - 1Password - `:simple-1password:`
 
 ## Other commonly used icons
 - :material-check-circle-outline: - Check/Yes - `:material-check-circle-outline:`
