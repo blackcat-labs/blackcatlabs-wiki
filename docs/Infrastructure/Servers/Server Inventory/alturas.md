@@ -4,10 +4,11 @@
 **Hosting provider:** :simple-hetzner: Hetzner  
 **Datacenter:**  HEL1-DC2
 
-**OS:** Proxmox VE 8.1 (Debian Bookworm)
+**OS:** Proxmox VE 8.1//Debian Bookworm
 
 ## :fontawesome-solid-network-wired: Network
-**Primary WAN IP:** `REDACTED WHILE SETUP IS IN PROGRESS` (:material-wall-fire: Firewall closed to outside connections - Hetzner stateless FW)  
+**Hostname:** `alturas.blkcat.space`  
+**Primary WAN IP:** `95.216.102.203` (:material-wall-fire: Firewall closed to outside connections - Hetzner stateless FW)  
 **Additional WAN IPs:**  
 **On Tailnet:** :octicons-clock-24: To be set up  
 **Tailnet IP:**  
