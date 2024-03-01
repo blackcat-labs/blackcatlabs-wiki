@@ -39,5 +39,7 @@ plugins:
       enabled: true
       type: timeago
       fallback_to_build_date: true
+      exclude:
+        - index.md
   - search
 copyright: CC &copy; 2024 Black Cat Labs. This work is openly licensed via CC BY-SA 4.0.
