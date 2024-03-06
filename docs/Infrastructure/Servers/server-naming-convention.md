@@ -9,7 +9,7 @@ These names are drawn from a variety of sources, including the following:
 - [namingscemes.com](https://namingschemes.com/Main_Page)  
 
 ### Icon Key
-A full list of icons used, with details, is available at [:material-arrow-right:Icons Used on this Wiki](../Meta/icons.md).
+A full list of icons used, with details, is available at [:material-arrow-right:Icons Used on this Wiki](../../Meta/mkdocs.md).
 
 :octicons-server-24: - a generic server that we don't have a better icon for yet.  
 :octicons-container-24: - a hypervisor server hosting other little servers. [:material-egg-easter:](https://black-cat-labs.b-cdn.net/memes/shipping-ship.jpg)  
