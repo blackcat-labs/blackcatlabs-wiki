@@ -9,7 +9,7 @@
 ## :fontawesome-solid-network-wired: Network
 **Hostname:** `alturas.blkcat.space`  
 **Primary WAN IP:** `95.216.102.203` (:material-wall-fire: Firewall closed to outside connections - Hetzner stateless FW)  
-**Additional WAN IPs:**  
+**Additional WAN IPs:** `95.216.102.201` - :simple-opnsense: OPNsense firewall/router  
 **On Tailnet:** :octicons-clock-24: To be set up  
 **Tailnet IP:**  
 
@@ -20,3 +20,16 @@
 **NIC:**  NIC 1 Gbit Intel I219-LM
 
 ## :octicons-pencil-24: Other notes
+Primary IP Info:  
+```
+IPv4: 95.216.102.203/26
+Gateway: 95.216.102.193
+Routed to WAN Proxmox bridge
+```
+
+Secondary IP Info:
+```
+IPv4: 95.216.102.201
+Virtual MAC address: 00:50:56:01:16:F1
+Routed to OPNsense firewall/router
+```
