@@ -10,8 +10,10 @@
 **Hostname:** `alturas.blkcat.space`  
 **Primary WAN IP:** `95.216.102.203` (:material-wall-fire: Firewall closed to outside connections - Hetzner stateless FW)  
 **Additional WAN IPs:** `95.216.102.201` - :simple-opnsense: OPNsense firewall/router  
-**On Tailnet:** :octicons-clock-24: To be set up  
+**On Tailnet:** :material-check-circle-outline: Yes  
 **Tailnet IP:**  
+`100.115.52.77` PVE Bare Metal  
+`100.93.18.75` OPNsense Subnet
 
 ## :octicons-cpu-24: Hardware
 **Processor:** Intel Core i7-8700  
