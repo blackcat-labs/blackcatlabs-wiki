@@ -8,6 +8,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: lime
+      accent: cyan
       toggle:
         icon: material/weather-sunny 
         name: Switch to dark mode
