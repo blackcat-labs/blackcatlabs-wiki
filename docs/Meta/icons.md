@@ -16,17 +16,23 @@ Icons are sourced from the [Material for MkDocs Icon List](https://squidfunk.git
 - :octicons-tab-external-16: - Link within sister wiki - `:octicons-tab-external-16:` - for a link to within a sister wiki site, still managed by us (for example, linking to the OpenHost wiki)
 - :octicons-link-external-16: - External link - `:octicons-link-external-16:` - for a link to an external site not controlled by us
 - :fontawesome-regular-file-pdf: - PDF link - `:fontawesome-regular-file-pdf:` - linking directly to a downloadable PDF file
+- :fontawesome-brands-github-alt: - Brand link - External **or** internal links to specific services/brands, you can use its logo instead of a link icon (there's a convenient search box [:octicons-link-external-16: here](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/).)
 
 ## Brands
 - :simple-hetzner: - Hetzner - `:simple-hetzner:`
 - :simple-digitalocean: - Digital Ocean - `:simple-digitalocean:`
-- :simple-proxmox: - Proxmox - `:simple-proxmox:`
 - :simple-stripe: - Stripe - `:simple-stripe:`
 - :simple-checkmk: - Checkmk - `:simple-checkmk:`
 - :simple-nextcloud: - Nextcloud - `:simple-nextcloud:`
 - :simple-gitea: - Gitea - `:simple-gitea:`
 - :simple-docker: - Docker - `:simple-docker:`
 - :simple-1password: - 1Password - `:simple-1password:`
+- :octicons-mark-github-16: - GitHub - `:octicons-mark-github-16:`
+- :simple-proxmox: - Proxmox - `:simple-proxmox:`
+- :simple-opnsense: - OPNsense - `:simple-opnsense:`
+- :simple-debian: - Debian - `:simple-debian:`
+- :simple-ubuntu: - Ubuntu - `:simple-ubuntu:`
+- :simple-windows11: - Windows - `:simple-windows11:`
 
 ## Other commonly used icons
 - :material-check-circle-outline: - Check/Yes - `:material-check-circle-outline:`
