@@ -3,8 +3,11 @@
 **Server type:** Dedicated server  
 **Hosting provider:** :simple-hetzner: Hetzner  
 **Datacenter:**  HEL1-DC2
+**OS:** :simple-proxmox: Proxmox VE 8.1 // :simple-debian: Debian Bookworm  
+**Monitored with CheckMk:** :octicons-clock-24: In progress
 
-**OS:** Proxmox VE 8.1//Debian Bookworm
+## :octicons-paper-airplane-16: Use(s)
+General virtualization server with :simple-proxmox: Proxmox VE.
 
 ## :fontawesome-solid-network-wired: Network
 **Hostname:** `alturas.blkcat.space`  
@@ -13,7 +16,9 @@
 **On Tailnet:** :material-check-circle-outline: Yes  
 **Tailnet IP:**  
 `100.115.52.77` PVE Bare Metal  
-`100.93.18.75` OPNsense Subnet
+`100.93.18.75` OPNsense Subnet  
+**URL(s):**  
+[:simple-proxmox: https://alturas.tailcf6c9.ts.net](https://alturas.tailcf6c9.ts.net) - PVE console - must be on Tailnet to access.
 
 ## :octicons-cpu-24: Hardware
 **Processor:** Intel Core i7-8700  
