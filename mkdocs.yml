@@ -16,6 +16,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: lime
+      accent: cyan
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -25,6 +26,8 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.indexes
+    - content.code.copy
+    - content.code.select
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -42,7 +45,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
   - git-revision-date-localized:
-      enable_creation_date: false
+      enable_creation_date: true
       enabled: true
       type: date
       fallback_to_build_date: true
