@@ -1,6 +1,6 @@
 # Company Info
-Quickly access details when you need them.
 
+## Quick Info
 **Company Name:** Black Cat Labs LLC  
 **Company Type:** Close LLC (Single-member)  
 **Company Formation State:** Wyoming  
@@ -23,3 +23,6 @@ Lakewood, OH 44107
 ```
 blackcatlabs.dev
 ```
+
+## Design Info
+Basic color palette: [:material-palette: https://coolors.co/242329-de8b5d-8c51d6-b6d094-70d6ff](https://coolors.co/242329-de8b5d-8c51d6-b6d094-70d6ff) (Still subject to change/refinement)
