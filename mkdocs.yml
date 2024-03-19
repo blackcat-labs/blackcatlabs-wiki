@@ -1,22 +1,22 @@
 site_name: Black Cat Labs Wiki
 theme:
   name: material
-  logo: localassets/BLACKCAT-LOGO-BLACK-TRANSPARENT.svg
+  logo: localassets/BLACKCAT-LOGO-WHITE-TRANSPARENT.svg
   favicon: localassets/favicon-32x32.png
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: lime
-      accent: cyan
+      primary: deep purple
+      accent: purple
       toggle:
         icon: material/weather-sunny 
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: lime
-      accent: cyan
+      primary: deep purple
+      accent: purple
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -53,4 +53,4 @@ plugins:
         - index.md
   - search
   - awesome-pages
-copyright: CC &copy; 2024 Black Cat Labs. This work is openly licensed via CC BY-SA 4.0.
+copyright: Copyright &copy; 2024 | Black Cat Labs LLC
