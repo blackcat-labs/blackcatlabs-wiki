@@ -40,5 +40,5 @@ To set up the repo so that we get a Slack notification in `#deploys_static-sites
 
 See [.github/workflows/cf-pages-deploy-slack.yml](https://github.com/blackcat-labs/blackcatlabs-wiki/blob/main/.github/workflows/cf-pages-deploy-slack.yml) for the full working file.
 
-CF account ID and API token: :simple-1password: `CF API token - GitHub Actions > Pages Read` in the `CI/CD` vault.  
-Slack webhook for `#deploys_static-sites` channel: :simple-1password: `Slack Webhook - CF Pages Deploy > deploys_static-sites` in the `CI/CD` vault.
+CF account ID and API token: [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&h=blackcat-labs.1password.com&i=ce362lirbcnmmjd4epqs26creq&v=jsiictzq3qvzmkew4xt5mjqi6u)  
+Slack webhook for `#deploys_static-sites` channel: [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&h=blackcat-labs.1password.com&i=kgeyqk4p5dmo6uslnmloouae5e&v=jsiictzq3qvzmkew4xt5mjqi6u)
