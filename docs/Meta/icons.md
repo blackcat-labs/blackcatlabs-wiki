@@ -1,4 +1,4 @@
-# Icons Used on this Wiki
+# Icons
 
 This is a quick and dirty list of icons used on this wiki, the code snippet you can use to insert the icon when editing, and the typical use case for the icon.  
 Icons are sourced from the [Material for MkDocs Icon List](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/).
