@@ -1,4 +1,4 @@
-# MkDocs and Material for MkDocs Notes and Info
+# Material for MkDocs
 
 This site is  built and hosted using Cloudflare Pages' free plan. These are a couple notes on tweaks I needed to get everything working nicely.
 
@@ -8,7 +8,7 @@ This command is what's currently working to properly build this site:
 ```
 git fetch --unshallow && pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git mkdocs-git-revision-date-localized-plugin pip install mkdocs-awesome-pages-plugin; mkdocs build --site-dir public
 ```
-See the important note below about the `${GH_TOKEN}` environment variable.
+See the important note below about the `GH_TOKEN` environment variable.
 **Build output directory:** `/public`
 
 ## Cloudflare Pages Environment Variables
@@ -20,15 +20,15 @@ For **each** Production and Preview environment, do the following:
 
 1. Click **Edit Variables**
 2. Click **Add Variable**
-3. Set the **Variable Name** to `${GH_TOKEN}`
-4. Copy the API key from :simple-1password: 1Password: `Repo Material Insiders GH Token - CF Pages Build` in the `CI/CD` vault, and paste it in the **Value** box
+3. Set the **Variable Name** to `GH_TOKEN`
+4. Copy the API key from [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&v=jsiictzq3qvzmkew4xt5mjqi6u&i=w5l45q5wofbqe4s2qhtyn4dk3a&h=blackcat-labs.1password.com) (:octicons-lock-24: Internal) and paste it in the **Value** box
 5. Click the grey **Encrypt** button
 6. Click **Save**
 
 ## Awesome-Pages
 Using the [:octicons-mark-github-16: mkdocs-awesome-pages-plugin plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) for navigation.
 
-[:octicons-link-external-16: Link to info on how to use this plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin?tab=readme-ov-file#features)
+[:octicons-link-external-16: Info on how to use this plugin](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin?tab=readme-ov-file#features)
 
 ## TimeAgo/Revision Date
 Because these docs are hosted in a Git repo, we can use the [:octicons-mark-github-16: mkdocs-git-revision-date-localized-plugin plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) to note for each page when it was last edited/revised.
@@ -36,9 +36,9 @@ Because these docs are hosted in a Git repo, we can use the [:octicons-mark-gith
 Because Cloudflare Page's build pipeline by default fetches only the latest revision, we have to add `git fetch --unshallow &&` to the CF build command, to have it fetch the full repo.
 
 ## Slack notifications on build
-To set up the repo so that we get a Slack notification in `#deploys_static-sites`, we're using the [:octicons-mark-github-16: cloudflare-pages-slack-notification GitHub Action](https://github.com/marketplace/actions/cloudflare-pages-slack-notification).
+To set up the repo so that we get a Slack notification in `#deploys_prod_static`, we're using the [:octicons-mark-github-16: cloudflare-pages-slack-notification GitHub Action](https://github.com/marketplace/actions/cloudflare-pages-slack-notification).
 
 See [.github/workflows/cf-pages-deploy-slack.yml](https://github.com/blackcat-labs/blackcatlabs-wiki/blob/main/.github/workflows/cf-pages-deploy-slack.yml) for the full working file.
 
-CF account ID and API token: :simple-1password: `CF API token - GitHub Actions > Pages Read` in the `CI/CD` vault.  
-Slack webhook for `#deploys_static-sites` channel: :simple-1password: `Slack Webhook - CF Pages Deploy > deploys_static-sites` in the `CI/CD` vault.
+CF account ID and API token: [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&h=blackcat-labs.1password.com&i=ce362lirbcnmmjd4epqs26creq&v=jsiictzq3qvzmkew4xt5mjqi6u) (:octicons-lock-24: Internal)  
+Slack webhook for `#deploys_prod_static` channel: [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&h=blackcat-labs.1password.com&i=kgeyqk4p5dmo6uslnmloouae5e&v=jsiictzq3qvzmkew4xt5mjqi6u) (:octicons-lock-24: Internal)
