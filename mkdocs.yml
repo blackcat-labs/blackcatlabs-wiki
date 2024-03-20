@@ -54,3 +54,6 @@ plugins:
   - search
   - awesome-pages
 copyright: Copyright &copy; 2024 | Black Cat Labs LLC
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
