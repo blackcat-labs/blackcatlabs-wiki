@@ -40,7 +40,7 @@ markdown_extensions:
   - attr_list
   - footnotes
   - toc:
-      permalink: ⚓︎
+      permalink: true
       permalink_title: Link to this heading
       title: On this page
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
