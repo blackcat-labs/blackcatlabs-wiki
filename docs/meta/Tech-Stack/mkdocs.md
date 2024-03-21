@@ -1,6 +1,6 @@
 # Material for MkDocs
 
-This site is  built and hosted using Cloudflare Pages' free plan. These are a couple notes on tweaks I needed to get everything working nicely.
+This site is  built and hosted using Cloudflare Pages. These are a couple notes on tweaks that seem to be needed to get everything working nicely.
 
 ## Finalized Build Command
 This command is what's currently working to properly build this site:  

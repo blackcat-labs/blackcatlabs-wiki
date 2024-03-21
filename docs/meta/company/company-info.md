@@ -41,4 +41,5 @@ Wyoming - March 1st
 **EIN:** [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&v=ekwocviwvv6m6rhwwimekktr3m&i=j6djgmkqmyafiddapwvszzvvdq&h=blackcat-labs.1password.com) (:octicons-lock-24: Internal)
 
 ## Finance Info
-**W-9:** 
+**W-9:** Please see the [:octicons-lock-24: internal wiki](https://wiki-internal.blackcatlabs.dev/finance/accounts-receivable/#other-helpful-info).  
+**Accounts Receivable Info:** Please see the [:octicons-lock-24: internal wiki](https://wiki-internal.blackcatlabs.dev/finance/accounts-receivable/).
