@@ -1,0 +1,79 @@
+# Responsible Bug Reporting
+We sincerely appreciate the work of security researchers, bug hunters, and anyone who’s willing to take the time to let us know about something that’s broken. It’s incredibly helpful, especially to small independent services like the ones we make.
+
+## :material-bug: Reporting Bugs
+Found a bug? This mailbox can be used for any kind of bug of any severity:
+```
+bugs@blackcatlabs.dev
+```
+
+## :material-security: Reporting Security Vulnerabilities
+If you believe you’ve discovered a serious security issue, please contact: 
+```
+security@blackcatlabs.dev
+```
+
+## :material-folder-key: Secure File Transfer
+If you need a secure file transfer link to send us files, please let us know and we'll send you a link:
+```
+security@blackcatlabs.dev
+```
+
+## :material-key: PGP Key
+If you'd like to encrypt your email, you can use this PGP to communicate with us securely:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+SbKfcN2hUA3bn11/y9qrU/s=
+=gOPX
+-----END PGP PUBLIC KEY BLOCK-----
+```
