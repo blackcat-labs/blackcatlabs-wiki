@@ -1,7 +1,7 @@
 # Service Domains
 This page contains a list of all valid domains that may be used by Black Cat Labs services.
 
-If you have found a location other than the ones above claiming to be affiliated with Black Cat Labs, or if someone has asked you to log into your account or share any personal information at a location other than one of these service domains, please [:octicons-shield-16: Contact Us](../contact/README.md) immediately.
+If you have found a location other than the ones above claiming to be affiliated with Black Cat Labs, or if someone has asked you to log into your account or share any personal information at a location other than one of these service domains, please [:octicons-shield-16: Contact Us](../contact/abuse.md) immediately.
 
 ## Service Domains for Black Cat Labs
 
@@ -17,7 +17,7 @@ If you see a footnote (like this[^1]) next to any listing below, hover or click 
 | :------------------------: | :------------------- | :------ |
 | :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `blackcatlabs.dev`   | Black Cat Labs homepage |
 | :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `*.blackcatlabs.dev` | Black Cat Labs services pages (like this wiki) |
-| :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `blkcat.space`       | Root domain is unused, redirects to [this wiki page]
+| :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `blkcat.space`       | Root domain is unused, redirects to [this wiki page](blkcat-space.md)
 | :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `*.blkcat.space`     | Black Cat Labs services/systems pages (like the billing portal) |
 | :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `galaxy.sh`          | Galaxy.sh homepage |
 | :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `*.galaxy.sh`        | Galaxy.sh services pages (like the docs site) |
@@ -27,6 +27,11 @@ If you see a footnote (like this[^1]) next to any listing below, hover or click 
 | :fontawesome-solid-triangle-exclamation:{ title="User-managed content, exercise caution." } | `*.docshq.app`[^4]   | DocsHQ user sites[^4] |
 | :octicons-check-circle-24:{ title="Legitimate Black Cat Labs service domain" } | `oncasper.blog`      | Casper Blog Supply homepage |
 | :fontawesome-solid-triangle-exclamation:{ title="User-managed content, exercise caution." } | `*.oncasper.blog`[^5] | Casper Blog Supply user sites[^5] |
+
+---
+??? danger "Controlled Document"
+    Inline with our internal policy as well as legal and contractual obligations, changes to [Controlled Documents](../meta/editing/controlled-documents.md) must be approved and merged by an administrator. Please discuss with @thh or another admin before making any changes.
+
 
 [^1]:
     This is an example of additional information you might see for a footnote.

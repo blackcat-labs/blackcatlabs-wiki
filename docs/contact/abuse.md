@@ -1,7 +1,7 @@
 # Reporting Abuse
 
 ## :octicons-shield-16: Reporting Abuse
-Please report any violations of our [policies](../policies/about.md) to:
+Please report any violations of our [policies](../policies/README.md) to:
 ```
 abuse@blackcatlabs.dev
 ```
