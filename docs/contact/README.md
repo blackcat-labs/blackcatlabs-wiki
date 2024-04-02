@@ -19,7 +19,7 @@ comments@blackcatlabs.dev
 ```
 
 ## :octicons-shield-16: Reporting Abuse
-Please refer to our [:material-arrow-right:Abuse Reporting](abuse.md) page.
+Please refer to our [:octicons-shield-16: Abuse Reporting](abuse.md) page.
 
 ## :material-bug: Bugs and Vulnerabilities
 Please refer to our [:material-bug: Responsible Bug Reporting](bugs.md) page.
