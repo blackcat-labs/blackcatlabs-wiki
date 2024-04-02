@@ -22,7 +22,7 @@ We use session cookies on our site. These cookies should not be permanently stor
 We will not use your personally identifiable information to market our products and services to you unless you specifically indicate you wish us to do so. And probably not even then. We will not use your personally identifiable information to market third party products and services to you.
 
 ## Subprocessors
-We use services provided by third-parties to provide the Galaxy.sh services to you. You can view a list of the third-party services we use on our [:material-arrow-right:Subprocessors list](subprocessors.md).
+We use services provided by third-parties to provide Services to you. You can view a list of the third-party services we use on our [:material-arrow-right:Subprocessors list](subprocessors.md).
 
 ## Termination and Removal of Information
 If for any reason you terminate your service, we will destroy active records containing your personally identifiable information as soon as it is reasonable to do so. Some information may continue to exist in our archived records. If we terminate your service, we reserve the right to retain enough information to prevent you from signing up for service in the future.
