@@ -94,7 +94,7 @@ In addition to the [Content](#content) and [Conduct](#conduct) sections above, y
 -   operating Tor exit nodes or other proxies[^9]
 
 ## International Use
-Black Cat Labs is headquartered in, the United States of America.
+Black Cat Labs is headquartered in the United States of America.
 
 It is your sole responsibility to ensure your compliance with any and all applicable local laws regarding online conduct and acceptable Content and Usage.
 
@@ -143,7 +143,7 @@ Be excellent to each other. Don't abuse us our our services, and we'll all get a
     If you have a question about any of these Terms, please [:material-email: contact us](../contact/README.md).
 
 ??? danger "Controlled Document"
-    Inline with our internal policy as well as legal and contractual obligations, changes to [Controlled Documents](../meta/editing/controlled-documents.md) must be approved and merged by an administrator. Please discuss with @thh or another admin before making any changes.
+    Inline with our internal policy as well as legal and contractual obligations, changes to [Controlled Documents](../meta/editing/controlled-documents.md) must be approved and merged by an administrator. Please discuss with @thhsh or another admin before making any changes.
 
 [^2]:
     *"A threat actor, bad actor or malicious actor is either a person or a group of people that take part in an action that is intended to cause harm to the cyber realm including: computers, devices, systems, or networks. The term is typically used to describe individuals or groups that perform malicious acts against a person or an organization of any type or size. Threat actors engage in cyber related offenses to exploit open vulnerabilities and disrupt operations. There are a number of threat actor categories who have different motives and targets."*
