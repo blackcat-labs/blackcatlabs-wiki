@@ -41,7 +41,7 @@ This wiki is subject to interpretation. We do our best to be as clear as possibl
 !!! danger "Controlled Documents"
     If you come across pages/documents with this header, that indicates that they are a Controlled Document.
 
-    Inline with our internal policy as well as legal and contractual obligations, changes to [Controlled Documents](meta/editing/controlled-documents.md) must be approved and merged by an administrator. Please discuss with @thh or another admin before making any changes.
+    Inline with our internal policy as well as legal and contractual obligations, changes to [Controlled Documents](meta/editing/controlled-documents.md) must be approved and merged by an administrator. Please discuss with @thhsh or another admin before making any changes.
 
 ## :fontawesome-brands-creative-commons: License
 This work is licensed under [CC BY-SA 4.0. :fontawesome-brands-creative-commons::fontawesome-brands-creative-commons-by::fontawesome-brands-creative-commons-sa:](https://creativecommons.org/licenses/by-sa/4.0/)
