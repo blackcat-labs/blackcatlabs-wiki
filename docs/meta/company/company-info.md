@@ -5,6 +5,9 @@
 
 
 ## Contact Info
+!!! info "External Contact Info"
+    For customers/members, please see [:material-email-fast: Black Cat Labs-contact information](../../contact/README.md) for the most efficient way to get in touch.
+
 !!! warning inline end "Important notes about addresses"
     Our Sheridan, WY address is **not** a physical location to visit, **nor** is the address that most mailings should be sent to, as it delays our receipt of correspondance.  
     **Legal process can be addressed using this Sheridan, WY address. All other mailings should be sent to our Lakewood, OH mailing address.**
@@ -31,15 +34,10 @@ Lakewood, OH 44107
 ```
 blackcatlabs.dev
 ```
+Additional domain names can be found on the [:material-arrow-right:Service Domains](../../general/service-domains.md) page.
 
 ## Legal Info
-**Formal Company Name:** Black Cat Labs LLC  
-**Company Type:** Close LLC  
-**Formation State:** Wyoming  
-**Annual Renewal(s)**:  
-Wyoming - March 1st  
-**EIN:** [:simple-1password: 1Password](https://start.1password.com/open/i?a=B5NVCNGFJBCCLCDCN5FKFPGVBI&v=ekwocviwvv6m6rhwwimekktr3m&i=j6djgmkqmyafiddapwvszzvvdq&h=blackcat-labs.1password.com) (:octicons-lock-24: Internal)
+Moved to the [:octicons-lock-24: Internal Wiki]().
 
 ## Finance Info
-**W-9:** Please see the [:octicons-lock-24: internal wiki](https://wiki-internal.blackcatlabs.dev/finance/accounts-receivable/#other-helpful-info).  
-**Accounts Receivable Info:** Please see the [:octicons-lock-24: internal wiki](https://wiki-internal.blackcatlabs.dev/finance/accounts-receivable/).
+Moved to the [:octicons-lock-24: Internal Wiki]().
